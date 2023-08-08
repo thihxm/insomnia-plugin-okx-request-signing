@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-okx-request-signing",
+  "version": "1.0.0",
+  "author": "thihxm",
+  "license": "ISC",
+  "description": "An insomnia plugin to sign OKX API calls.",
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "OKX"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thihxm/insomnia-plugin-okx-request-signing.git"
+  },
+  "main": "src/main.js",
+  "insomnia": {
+    "name": "okx-request-signing",
+    "displayName": "OKX API Request Signing",
+    "description": "An insomnia plugin to sign OKX API calls.",
+    "publisher": {
+      "name": "thihxm"
+    },
+    "unlisted": false
+  },
+  "dependencies": {}
+}
